@@ -10,9 +10,9 @@ a = 3
 b = 5
 
 Print the following:
-8
+```8
 -2
-15
+15```
 
 ## Input Format
 
@@ -27,13 +27,13 @@ The second line contains the second integer, b.
 Print the three lines as explained above.
 
 ## Sample Input 0
-3
-2
+```3
+2```
 
 ## Sample Output 0
-5
+```5
 1
-6
+6```
 
 ## Explanation 0
 3 + 2 ==> 5
