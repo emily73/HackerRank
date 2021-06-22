@@ -1,3 +1,3 @@
 # HackerRank
 
-- [Python](#Python)
+- [Python](https://github.com/emily73/HackerRank/tree/main/Python/)
